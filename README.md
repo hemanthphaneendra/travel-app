@@ -1,6 +1,11 @@
 # travel_app
 
-A new Flutter project.
+Screen-shots of Screens done in this application
+![image](https://user-images.githubusercontent.com/44609153/197966797-ec24a58b-09dd-4dd0-8d73-5cb524b43c68.png)
+![image](https://user-images.githubusercontent.com/44609153/197966942-3b934ef2-b89a-46cd-b1e8-a633901eee01.png)
+![image](https://user-images.githubusercontent.com/44609153/197966874-0e4d18d4-e5af-43d7-bece-45c92291601a.png)
+![image](https://user-images.githubusercontent.com/44609153/197967087-85d124b2-46d6-47ba-8ac7-f49dcd599949.png)
+
 
 ## Getting Started
 
